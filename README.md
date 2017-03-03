@@ -1,31 +1,7 @@
-# Game Time Starter Kit
+#Breakout!
 
-To install the dependencies:
+##Final project for Module 1
 
-```
-npm install
-```
+Assignment specs can be found [HERE](http://frontend.turing.io/projects/game-time.html)
 
-To fire up a development server:
-
-```
-npm start
-```
-
-Once the server is running, you can visit:
-
-* `http://localhost:8080/webpack-dev-server/` to run your application.
-* `http://localhost:8080/webpack-dev-server/test.html` to run your test suite in the browser.
-
-To build the static files:
-
-```js
-npm run build
-```
-
-
-To run tests in Node:
-
-```js
-npm test
-```
+![Alt text](https://gyazo.com/e3879f235e04ed21015d6bf6973c46d5.png "Screenshot")
